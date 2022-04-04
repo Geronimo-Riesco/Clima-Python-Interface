@@ -1,4 +1,4 @@
-# Tiempo-Python-Interface
+# Clima-Python-Interface
 Aplicación de escritorio de el clima hecha con la librería Tkinter de Python.
 
 Clima en Buenos Aires.
